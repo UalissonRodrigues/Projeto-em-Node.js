@@ -1,0 +1,40 @@
+body{
+    background-color: darkgreen;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+
+#imagem{
+   
+    margin-left: 600px;
+}
+
+#quest{
+
+    margin-left: 450px; 
+    color:aliceblue;  
+}
+
+#Botaopergunta{
+
+    margin-left: 950px;
+
+}
+
+#resp{
+ 
+    color:aliceblue;  
+}
+
+#final{
+    color:aliceblue;
+    margin-left: 300px;
+    
+}
+
+#botao {
+    margin-left: 145px;
+    
+}
